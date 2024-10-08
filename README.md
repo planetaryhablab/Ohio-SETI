@@ -50,4 +50,14 @@ Data is saved in IDL Save files. Use [SciPy's `readsave`](https://docs.scipy.org
 
 Thanks to MichaelHotaling for the data's original [transcription](https://github.com/MichaelHotaling/The-Wow-Signal).
 
+# Citation
+
+Méndez, A., Ortiz-Ceballos, K., Zuluaga, J. I., & Palencia-Torres, K. D. (2024). Arecibo Wow! II (in preparation).
+
+Méndez, A., Ortiz-Ceballos, K., & Zuluaga, J. I. (2024). Arecibo Wow! I: An Astrophysical Explanation for the Wow! Signal. arXiv preprint [arXiv:2408.08513](https://arxiv.org/abs/2408.08513).
+
+# License
+
+Ohio SETI Data © 2024 by PHL @ UPR Arecibo is licensed under Creative Commons Attribution 4.0 International.
+
 _v0a (October 8, 2024)_
