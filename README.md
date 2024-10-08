@@ -16,7 +16,7 @@ oseti.sav - data extracted and calibrated from the printout
 
 # Data Format
 
-   OBSERVATORY     STRING    'Ohio State University Radio Observatory (OSURO)'   
+|   OBSERVATORY    | STRING    |'Ohio State University Radio Observatory (OSURO)'   |
    TELESCOPE       STRING    'Big Ear'
    LOCATION        STRING    'Delaware, Ohio'
    PROJECT         STRING    'Ohio SETI'
