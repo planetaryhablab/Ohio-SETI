@@ -9,7 +9,7 @@ The Ohio SETI project, which ran from 1973 to 1998 from the Ohio State Universit
 
 # Data Format
 
-Data is saved in IDL Save files. Use [SciPy's `readsave`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.io.readsav.html) to read data into Python.
+Data is saved in IDL Save files. Use [SciPy's `readsave`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.io.readsav.html) to read data into Python. It will be included in other formats (_e.g._, CSV) in future versions.
 
 | Variable | Type | Content | Description |
 | -------- | ---- | ------- | ----------- |
