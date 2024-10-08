@@ -58,6 +58,6 @@ Méndez, A., Ortiz-Ceballos, K., & Zuluaga, J. I. (2024). Arecibo Wow! I: An Ast
 
 # License
 
-Ohio SETI Data © 2024 by PHL @ UPR Arecibo is licensed under Creative Commons Attribution 4.0 International.
+Ohio SETI Data © 2024 by PHL @ UPR Arecibo is licensed under Creative Commons Attribution 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
 
 _v0a (October 8, 2024)_
