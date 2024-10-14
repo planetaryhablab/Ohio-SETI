@@ -5,10 +5,10 @@ The Ohio SETI project ran from 1973 to 1998 from the Ohio State University Radio
 # Directory Content
 
 - oseti_19770815_220410.jpg - scan of original Wow! Signal printout for reference
-- oseti_19770815_220410.sav - reanalysis data in IDL Save format (description below)
 - oseti_19770815_220410.txt - original data in TXT format (no header)
 - oseti_19770815_220410.csv - original data in CVS format (with header)
 - oseti_19770815_220410.extended.pdf - original data in PDF format plus CNT and OBJECT fields (with header)
+- oseti_19770815_220410.sav - reanalysis data in IDL Save format (description below)
 
 # Data Format
 
