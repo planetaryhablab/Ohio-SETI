@@ -52,7 +52,7 @@ Data is saved in the IDL Save format. Use [SciPy's `readsave`](https://docs.scip
 | FLUX        | DOUBLE | Array[50, 82] | estimated flux density (Jy) [assuming max signal was 54 Jy] |
 | FREQ_CHAN   | FLOAT  | Array[50, 82] | observed frequency for each channel (MHz) |
 | FREQ_CHAN_VEL   | DOUBLE  | Array[50, 82] | observed frequency velocity for each channel (km/s) |
-| OBJECT      | STRING | Array[82] | Ohio Sky Survey in the beam path (beam/peak flux density Jy) |
+| OBJECT      | STRING | Array[82] | Ohio Sky Survey object in the beam path (beam/peak flux density Jy) |
 
 # Acknowledments
 
