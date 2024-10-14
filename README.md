@@ -12,7 +12,7 @@ The Ohio SETI project ran from 1973 to 1998 from the Ohio State University Radio
 
 # Data Format
 
-Data is saved in the IDL Save format. Use [SciPy's `readsave`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.io.readsav.html) to read data into Python. It will be included in other formats (_e.g._, CSV) in future versions.
+Data is saved in the IDL Save format. Use [SciPy's `readsave`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.io.readsav.html) to read data into Python.
 
 | Variable | Type | Content | Description |
 | -------- | ---- | ------- | ----------- |
