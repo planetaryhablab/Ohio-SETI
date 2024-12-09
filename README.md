@@ -1,6 +1,6 @@
 # Arecibo Wow! Ohio SETI Data
 
-The Ohio SETI project ran from 1973 to 1998 from the Ohio State University Radio Observatory (OSURO), nicknamed Big Ear. It is the longest-running SETI project so far. The [Arecibo Wow!](HTTP:phl.upr.edu/wow) project is transcribing and calibrating its available data from scans of the original computer printouts. The dataset included here has the famous Wow! Signal detected August 15, 1977, around 10 PM EST. It has the original data, as read from the printout, plus corrected B1950 and J2000 coordinates, MJD and LST time, observed frequencies, and flux estimates, among other variables. This reanalysis will be described in the second Arecibo Wow! paper in November 2024.
+The Ohio SETI project ran from 1973 to 1998 from the Ohio State University Radio Observatory (OSURO), nicknamed Big Ear. It is the longest-running SETI project so far. The [Arecibo Wow!](HTTP:phl.upr.edu/wow) project is transcribing and calibrating its available data from scans of the original computer printouts. The dataset included here has the famous Wow! Signal detected August 15, 1977, around 10 PM EST. It has the original data, as read from the printout, plus corrected B1950 and J2000 coordinates, MJD and LST time, observed frequencies, and flux estimates, among other variables. This reanalysis will be described in the second Arecibo Wow! paper in January 2025.
 
 # Directory Content
 
@@ -12,7 +12,7 @@ The Ohio SETI project ran from 1973 to 1998 from the Ohio State University Radio
 
 # Data Format
 
-Data is saved in the IDL Save format. Use [SciPy's `readsave`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.io.readsav.html) to read data into Python. FITS file will also be included.
+Data is saved in the IDL Save format. Use [SciPy's `readsave`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.io.readsav.html) to read data into Python. FITS format will also be included.
 
 | Variable | Type | Content | Description |
 | -------- | ---- | ------- | ----------- |
